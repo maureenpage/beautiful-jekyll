@@ -23,8 +23,8 @@ description: Pollination Ecologist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "http://deanattali.com/beautiful-jekyll/"  
-  Research: "http://deanattali.com/beautiful-jekyll/"
+  About Me: 'about me'  
+  Research: 'research'
   Publications: "http://deanattali.com"
   CV: "http://deanattali.com/beautiful-jekyll/"
 
