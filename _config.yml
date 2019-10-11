@@ -3,6 +3,9 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
+# beautiful theme
+theme: beautiful
+
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://maureenpage.github.io"
 baseurl: "http://maureen-page.com"
@@ -14,7 +17,7 @@ baseurl: "http://maureen-page.com"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Maureen Page
+title: Maureen L. Page
 
 # Short description of your site
 description: Pollination Ecologist
@@ -24,11 +27,10 @@ description: Pollination Ecologist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - : "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  CV: "http://deanattali.com"
+  Research: 
+    - Optimizing Wildflower Plantings: "http://deanattali.com/beautiful-jekyll/"
+    - Effects of Honey Bee Introductions: "http://www.markdowntutorial.com/"
+  Publications: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
